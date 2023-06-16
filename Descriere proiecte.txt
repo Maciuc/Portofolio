@@ -1,0 +1,6 @@
+1. Proiectul "Gravity" consta instr-un simulator 2D de gravitatie facut in C# cu ajutorul framework-ul .NET si libraria OpenGL.
+2. Proiectul "Server FTP" reprezinta un simularea unui server FTP folosind limbajul Python.
+3. In "Proiecte algoritmica" sunt clase pentru majoritatea problemelor de algortmica rezolvate pana in acest moment.
+   Cerintele sunt de pe site-ul LeetCode, iar acesta este profilul meu: https://leetcode.com/gabrielmaciuc/
+4. "Asociate locatari" este un proiect in Java in care am folosit DAO (Data Access Object) design pattern pentru a gestiona o asociatie de locatari. Front-End-ul este compus    din niste comenzi impuse in Command Prompt.
+5. In "Proiect Microcontrolere" se afla documentatia pentru implementarea unui calculator cu display touch sensitive folosind microcontroler-ul Cortex-M4 si C embedded.
