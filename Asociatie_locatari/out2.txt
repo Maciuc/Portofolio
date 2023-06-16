@@ -1,0 +1,26 @@
+Eroare. Nu exista tipul respectiv
+Eroare. save: obj. exista deja id=190
+Eroare. Comanda neimplementata
+Eroare. Comanda neimplementata
+matiile din text ref. la ap. cu id=101 
+{Tip='L', id=1, suprafata=51.0, anConstructie=1990, strada='Zorilor', nr=10, scara='A', etaj=2, nrApt=12, nrPersoane=3}
+{Tip='SF', Id=190, suprafata=50.0, anConstructie=1990, strada='Zorilor', nr=9, scara='A', etaj=2, nrApt=12, denumire='S.C. Tester Prim', CUI='11223344'}
+{Tip='L', id=11, suprafata=90.0, anConstructie=2000, strada='Cucului', nr=8, scara='B', etaj=3, nrApt=10, nrPersoane=6}
+{Tip='L', id=101, suprafata=120.0, anConstructie=2013, strada='Popadiuc', nr=6, scara='A', etaj=5, nrApt=8, nrPersoane=3}
+{Tip='L', id=1, suprafata=51.0, anConstructie=1990, strada='Zorilor', nr=10, scara='A', etaj=2, nrApt=12, nrPersoane=3}
+null
+Suprafata medie a locuintelor: 87.0
+Suprafata medie a sediilor de firme: 50.0
+Suprafata medie a apartamentelor: 77.75
+rem se elimina ap. cu id=90 
+Suprafata medie a sediilor de firme: -1.0
+rem se face din nou add 190 
+{Tip='SF', Id=190, suprafata=50.0, anConstructie=1990, strada='Zorilor', nr=9, scara='A', etaj=2, nrApt=12, denumire='S.C. Tester Prim', CUI='11223344'}
+Ap. cele mai recente sunt: [101]
+Ap. cu suprafata cel putin egala cu 60: [11, 101]
+Ap. cu suprafata cel putin egala cu 100: [101]
+Ap. cu suprafata cel putin egala cu 0: [1, 11, 101, 190]
+rem se schimba mediul de stocare in asocNr2.ser 
+{Tip='L', id=1, suprafata=51.0, anConstructie=1990, strada='Zorilor', nr=10, scara='A', etaj=2, nrApt=12, nrPersoane=3}
+{Tip='SF', Id=190, suprafata=50.0, anConstructie=1990, strada='Zorilor', nr=9, scara='A', etaj=2, nrApt=12, denumire='S.C. Tester Prim', CUI='11223344'}
+La revedere!
